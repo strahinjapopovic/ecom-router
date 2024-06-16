@@ -51,7 +51,7 @@
 [![GitHub](https://img.shields.io/badge/logo-GitHub-white?logo=github&logoColor=black&style=flat&label=ecom-router&labelColor=blue&color=red)](https://github.com/strahinjapopovic/ecom-router)
 
 ## Git Bash Terminal setting up origin main
-[<img src="./app/screenshots/gitbash-operational-state-app-border.PNG" width="1200" alt="Git Bash Terminal screenshot." />](./app/screenshots/gitbash-operational-state-app-border.PNG)
+[<img src="./app/images/git-bash-remote-origin-main-border.png" width="1200" alt="Git Bash Terminal screenshot." />](./app/images/git-bash-remote-origin-main-border.png)
 
 <a id="installation-process"></a>
 ## Installation Process
